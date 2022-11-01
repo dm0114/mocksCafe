@@ -1,0 +1,22 @@
+{
+    "store":{
+    "storeId": 3,
+    "storeName":"비밀의 화원",
+    "storeAddress":"광주 어딘가",
+    "mapX":3.1251,
+    "mapY":12.2362,
+    "tel":"010-1234-5678",
+    "storeImg":"이미지 경로",
+    "homepage":"홈페이지 경로",
+    "region":"전라/광주",
+    "isClear": false,
+    "themeList" : [{
+      "themeId" : 3,
+      "themeName" : "비밀의 가족",
+      "storeName": "비밀의 화원",
+      "themeImg": "이미지 주소",
+      "likeCount": 23,
+      "star": 8
+    }]
+    }
+}
